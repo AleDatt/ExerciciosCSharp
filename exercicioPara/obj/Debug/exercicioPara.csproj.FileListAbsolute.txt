@@ -1,0 +1,21 @@
+C:\Users\alexandre.dattilio\source\repos\ConsoleApp2\exercicioPara\bin\Debug\exercicioPara.exe.config
+C:\Users\alexandre.dattilio\source\repos\ConsoleApp2\exercicioPara\bin\Debug\exercicioPara.exe
+C:\Users\alexandre.dattilio\source\repos\ConsoleApp2\exercicioPara\bin\Debug\exercicioPara.pdb
+C:\Users\alexandre.dattilio\source\repos\ConsoleApp2\exercicioPara\obj\Debug\exercicioPara.csproj.AssemblyReference.cache
+C:\Users\alexandre.dattilio\source\repos\ConsoleApp2\exercicioPara\obj\Debug\exercicioPara.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.dattilio\source\repos\ConsoleApp2\exercicioPara\obj\Debug\exercicioPara.exe
+C:\Users\alexandre.dattilio\source\repos\ConsoleApp2\exercicioPara\obj\Debug\exercicioPara.pdb
+C:\Users\alexandre.dattilio\OneDrive - SENAC - SP\exercicioPara\bin\Debug\exercicioPara.exe.config
+C:\Users\alexandre.dattilio\OneDrive - SENAC - SP\exercicioPara\bin\Debug\exercicioPara.exe
+C:\Users\alexandre.dattilio\OneDrive - SENAC - SP\exercicioPara\bin\Debug\exercicioPara.pdb
+C:\Users\alexandre.dattilio\OneDrive - SENAC - SP\exercicioPara\obj\Debug\exercicioPara.csproj.AssemblyReference.cache
+C:\Users\alexandre.dattilio\OneDrive - SENAC - SP\exercicioPara\obj\Debug\exercicioPara.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.dattilio\OneDrive - SENAC - SP\exercicioPara\obj\Debug\exercicioPara.exe
+C:\Users\alexandre.dattilio\OneDrive - SENAC - SP\exercicioPara\obj\Debug\exercicioPara.pdb
+C:\Users\alexandre.dattilio\source\repos\exercicioPara\bin\Debug\exercicioPara.exe.config
+C:\Users\alexandre.dattilio\source\repos\exercicioPara\bin\Debug\exercicioPara.exe
+C:\Users\alexandre.dattilio\source\repos\exercicioPara\bin\Debug\exercicioPara.pdb
+C:\Users\alexandre.dattilio\source\repos\exercicioPara\obj\Debug\exercicioPara.csproj.AssemblyReference.cache
+C:\Users\alexandre.dattilio\source\repos\exercicioPara\obj\Debug\exercicioPara.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.dattilio\source\repos\exercicioPara\obj\Debug\exercicioPara.exe
+C:\Users\alexandre.dattilio\source\repos\exercicioPara\obj\Debug\exercicioPara.pdb
